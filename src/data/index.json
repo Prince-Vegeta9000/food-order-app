@@ -1,0 +1,52 @@
+{
+    "restaurants": [
+        {
+            "id":"112233",
+            "name":"KFC",
+            "rating":"4.4",
+            "cuisine":["Burgers, Fast Food, Rolls & Wraps"],
+            "deliveryTime":"30-35 mins",
+            "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/12/9/15e625b7-6a11-4d01-b82c-727eb90e5af6_798812.JPG"
+        },
+        {
+            "id":"445566",
+            "name":"Kwality Walls Ice Cream and More",
+            "rating":"4.7",
+            "cuisine":["Ice Cream, Desserts"],
+            "deliveryTime":"25-30 mins",
+            "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/12/19/b2ad58fb-4e23-49b1-bff0-dcbd5e997258_1010803.jpg"
+        },
+        {
+            "id":"778899",
+            "name":"Dyal Sweets and Bakery",
+            "rating":"4.5",
+            "cuisine":["Bakery, Snacks"],
+            "deliveryTime":"40-45 mins",
+            "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/g06eiuibz1443ie4a3br.jpg"
+        },
+        {
+            "id":"001122",
+            "name":"Meshi Vaishnu Dhaba",
+            "rating":"4.2",
+            "cuisine":["Thalis"],
+            "deliveryTime":"25-30 mins",
+            "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/20cb239823780987f450e2763273e72b.jpg"
+        },
+        {
+            "id":"334455",
+            "name":"K Chawla Ice Cream & Sweets",
+            "rating":"4.5",
+            "cuisine":["Ice Cream, Snacks, Fast Food, Tandoor"],
+            "deliveryTime":"30-35 mins",
+            "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ui0avqud3o8i4jvhnrhl.jpg"
+        },
+        {
+            "id":"667788",
+            "name":"Gyan Vaishnav Dhaba",
+            "rating":"4.4",
+            "cuisine":["Ice Cream, Snacks, Fast Food, Tandoor"],
+            "deliveryTime":"35-40 mins",
+            "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/cwpru1y9gvfobaf95z1y.jpg"
+        }
+    ]
+}
